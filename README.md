@@ -1,4 +1,4 @@
-# Dashboard-Tendencias_Compra
+# Dashboard Tendencias de Compra
 El dataset de Preferencias de Compra de Clientes ofrece valiosos insights sobre el comportamiento del consumidor y los patrones de compra. Entender las preferencias y tendencias de los clientes es crucial para que las empresas puedan adaptar sus productos, estrategias de marketing y la experiencia del cliente en general. Este dataset captura una amplia gama de atributos de los clientes, incluyendo edad, género, historial de compras, métodos de pago preferidos, frecuencia de compras y más. Analizar estos datos puede ayudar a las empresas a tomar decisiones informadas, optimizar sus ofertas de productos y mejorar la satisfacción del cliente.
 
 Este proyecto utiliza el dataset de Preferencias de Compra de Clientes para crear un dashboard interactivo utilizando Streamlit. El dashboard visualiza tendencias y patrones en el comportamiento del cliente, proporcionando a las empresas insights accionables.
