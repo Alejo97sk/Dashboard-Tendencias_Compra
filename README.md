@@ -26,11 +26,11 @@ El dataset utilizado en este proyecto es sintético, creado específicamente par
 - **Frecuencia de Compras**: Frecuencia con la que el cliente realiza compras (por ejemplo, Semanal, Quincenal, Mensual).
 
 ## Página Principal
-![Página Principal](https://github.com/Alejo97sk/Dashboard-Tendencias_Compra/blob/e5aa0c4fb4a9957634038423c90f4fd5fc07f16f/Preview%20Dashboard/principal.png)
+![Página Principal](https://github.com/Alejo97sk/Dashboard-Tendencias_Compra/blob/140cb026598fe30b69b44ab695376d88e3435e9a/Preview%20Dashboard/principal.png)
 
 ## Sección de Productos
-![Sección de Productos](https://github.com/Alejo97sk/Dashboard-Tendencias_Compra/blob/e5aa0c4fb4a9957634038423c90f4fd5fc07f16f/Preview%20Dashboard/productos.png)
+![Sección de Productos](https://github.com/Alejo97sk/Dashboard-Tendencias_Compra/blob/140cb026598fe30b69b44ab695376d88e3435e9a/Preview%20Dashboard/productos.png)
 
 ## Sección de Ubicaciones
-![Sección de Ubicaciones 1](https://github.com/Alejo97sk/Dashboard-Tendencias_Compra/blob/e5aa0c4fb4a9957634038423c90f4fd5fc07f16f/Preview%20Dashboard/ubicaciones.png)
+![Sección de Ubicaciones 1](https://github.com/Alejo97sk/Dashboard-Tendencias_Compra/blob/140cb026598fe30b69b44ab695376d88e3435e9a/Preview%20Dashboard/ubicaciones.png)
 
