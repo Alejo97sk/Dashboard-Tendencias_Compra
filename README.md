@@ -3,7 +3,7 @@ El dataset de Preferencias de Compra de Clientes ofrece valiosos insights sobre 
 
 Este proyecto utiliza el dataset de Preferencias de Compra de Clientes para crear un dashboard interactivo utilizando Streamlit. El dashboard visualiza tendencias y patrones en el comportamiento del cliente, proporcionando a las empresas insights accionables.
 
-#Dataset
+# Dataset
 El dataset utilizado en este proyecto es sintético, creado específicamente para que los principiantes aprendan más sobre análisis de datos y machine learning. Incluye los siguientes atributos:
 
 - **ID de Cliente**: Identificador único para cada cliente.
